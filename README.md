@@ -29,9 +29,11 @@ Integration of theming in M3 for both Light and Dark modes.
 
 ## Tech Stack
 
-This project takes advantage of best practices of common libraryies and tools in android.
+This project takes advantage of best practices of common librairies and tools in android and IOS
 
-* [Kotlin](https://kotlinlang.org/)  
+* [Kotlin](https://kotlinlang.org/)
+* [Aurduino IDE](https://www.arduino.cc/en/software)
+* [Flutter](https://flutter.dev/)
 * [Coroutines](https://kotlinlang.org/docs/reference/coroutines-overview.html) - for background operations  
 * [Hilt](https://dagger.dev/hilt/) - for dependency injection  
 * [Coil](https://github.com/coil-kt/coil) - image loading library
